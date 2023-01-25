@@ -1,0 +1,31 @@
+html {
+  position: relative;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #94b49f;
+  font-family: "Open Sans", sans-serif;
+}
+.jumbotron img {
+  width: 280px;
+  border: 5px solid rgb(247, 247, 247);
+}
+
+#Carousel img {
+}
+
+#Services {
+  background-color: #5a8f7b;
+}
+#Contact {
+  background-color: #5a8f7b;
+}
+footer {
+  background-color: #5a8f7b;
+  color: #fff;
+}
+
+section {
+  padding-top: 4rem;
+}
