@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Panda Syntax",
-  "editor.fontFamily": "'fira code', 'Courier New', monospace",
+  "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.smoothScrolling": true,
   "editor.cursorBlinking": "expand",
